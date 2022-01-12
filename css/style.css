@@ -1,0 +1,117 @@
+.formmayor{
+    background-color: aquamarine;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 3%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+.all ::-webkit-input-placeholder{
+    background-color: white;
+        text-align: center;
+
+}
+.forms{
+    border: solid aquamarine 1px;
+    border-radius: 2%;
+    margin-bottom: 5% ;
+}
+a.nounderline:link
+{
+text-decoration:none;
+}
+
+.center{
+    text-align: center;
+}
+
+body{ 
+    background-color: white;
+}
+
+.formmenor {
+    background-color: white;
+}
+
+.primerRow{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.login{
+    margin-bottom: 10%;
+    background-color: white;
+    
+}
+
+.fondoturro{
+    background-color: white;
+}
+
+.gradient {
+    background: linear-gradient(120deg,#7f70f5,#0ea0ff);
+    color: #fff;
+}
+
+.page-footer {
+    padding-top: 35px;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    background: linear-gradient(120deg,#7f70f5,#0ea0ff);
+    color: #fff;
+    padding-bottom: 20px;
+  }
+
+.tabla{
+    margin-top: 3%;
+    margin-bottom: 3%;
+
+}
+.black{
+    color: black;
+}  
+.padd{
+    padding-top: 1%;
+}
+.link-category{
+    text-decoration: none;
+}
+.comment {
+    width: 250px;
+    margin: 0 auto;
+    height: 50px;
+  }
+  
+  .comment p {
+    text-align: center;
+  }
+  
+  .comment label {
+    font-size: 20px;
+  }
+  
+  input[type="radio"] {
+    display: none;
+  }
+  
+  label {
+    color: grey;
+  }
+  
+  .clasificacion {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+  }
+  
+  label:hover,
+  label:hover ~ label {
+    color: orange;
+  }
+  
+  input[type="radio"]:checked ~ label {
+    color: orange;
+  }
+  .imgchica{
+    height: 40px;
+    width: 40px;
+}
